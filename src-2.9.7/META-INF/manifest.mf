@@ -1,0 +1,142 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: r+A2o1f3thFJIQ55LCZb9ksfQfE=
+SHA256-Digest: dRvrbeJfYtMbm+zSN3N1qHgiPf9um1ObChTUuOJ0O7M=
+
+Name: background/img/black.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: orIq+WwFyGsVNwXFTEV7m+sfp5o=
+SHA256-Digest: KnRjPwtZdI+MeyvNw9GIn8+CmkxKK920wxkyjB6OYuE=
+
+Name: background/img/blue.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eIcM4Tz6l713cdkbQUmkathO/vY=
+SHA256-Digest: yKaF8pOkKCQtjGUtxsH6o4pWRzivK/exTWe1TpS7tOc=
+
+Name: background/img/green.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: aSiC4R+R0W6iVVALO6IAXXseYXo=
+SHA256-Digest: EfmjZHWM86ONRSTqlc60yTZOc4BNVVRW1QdKpTSIjck=
+
+Name: background/img/icon-16x16.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: FxhuBuID0CKxhd8IWhllaPajFfY=
+SHA256-Digest: H2HXas1bzNfFVLIhsqqozu6SC7RCqKXhOUUOu+RZkvI=
+
+Name: background/img/icon-32x32.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hDeS0+etWX5yEHTLbtCL5MgaC1M=
+SHA256-Digest: P7FDw4yfbj7nhP8nwE+HGXCXvIHn7AlLjx/xKliX6kI=
+
+Name: background/img/icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VeGUujywMYewQJdDjRCOUAdyzVU=
+SHA256-Digest: fssw3UotvMwI02eXssx36XOceTKtQkmYPLgyrDcDyFc=
+
+Name: background/img/pink.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hYqDreEUmoIQoXqPJvz4EiUPu6E=
+SHA256-Digest: 9y1lYkeTc28EDmuSsXz9Z5/knjdz8myWfgXg9TixNk4=
+
+Name: background/img/yellow.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pTAYCkq+w28D/NzlELt3LvjToxA=
+SHA256-Digest: UsRubqOuFfrFvVK2NWgl0VOznSWD9x6Paou/rN/DKI4=
+
+Name: bundle/background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: slTs6AKG4EgfRYCJTtL5fRihAXk=
+SHA256-Digest: 8IX58zlpxl9OMIzKC1jmV9MPd9WSRg9RdEBEx7h6+kc=
+
+Name: bundle/content.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5ntCNwGD/YBq2cDHBvLnkxiha0w=
+SHA256-Digest: 0W70ndbCWprvtuE7REoXe/ouFUZ/pXBMV07+oDHC9Hs=
+
+Name: bundle/options.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hV+ylvEHLh4GGAu/0GXItRDwbP0=
+SHA256-Digest: ilQF/AlSRVIVw6NifA4b1G4v3nIDFtw++bHqcojuMek=
+
+Name: bundle/popup.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cRPXCICaZyKYswzIgoItUYJgxzI=
+SHA256-Digest: Dbt/7SttLnJ0Zno7ow+0Sl6bBj6/5leoxRfbQWp6yls=
+
+Name: options/options.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4JrKlgxpUDP2r5BrmccV5UfNS6c=
+SHA256-Digest: bjdxlrw0QmfjtiqLm/YCYtoP9sI4uyJ5/9Aygbgx8kQ=
+
+Name: options/options.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bF2B1L8sXSUTLqbfaDsl1gNcK0U=
+SHA256-Digest: 6ocRCj81v5yskxLfN8TOdwDvM7ZsYmvTmQm1v1PLp2g=
+
+Name: popup/popup.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Axc6BpremfFwA+Gy3dnbukm15j8=
+SHA256-Digest: 6+zgu2KeUEh2AAakG/q3lE+YVUOIB2u+A7HYEfoL/PI=
+
+Name: popup/popup.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ems0bjOOzdseMOKduzNiXCQJxJc=
+SHA256-Digest: 076Kpn3GlkcqDeu41xx8Sj/AIhcFBfKw4gLvrUEOUTw=
+
+Name: popup/img/default_cover.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: h0slEaEleOOSOc9bWb9rUTbM3Gg=
+SHA256-Digest: nQzlA/WB1AsV6zoQSkMRNxDCjZYSQBORx6TtU4VVC00=
+
+Name: popup/img/preloader.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WMdE3zGBr3RBHhHjeXkKjlHVusI=
+SHA256-Digest: dlW4pIeHQJH6jXDg7i/v1hBACrCr053UmE0pziT6Vj8=
+
+Name: vendor/bootstrap-3.3.6-dist/css/bootstrap.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jrF2xwuc+mhxt21tyY+1Jufps94=
+SHA256-Digest: 7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw=
+
+Name: vendor/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.eo
+ t
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+SHA256-Digest: E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=
+
+Name: vendor/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.sv
+ g
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+SHA256-Digest: QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=
+
+Name: vendor/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.tt
+ f
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+SHA256-Digest: 45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=
+
+Name: vendor/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.wo
+ ff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+SHA256-Digest: omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=
+
+Name: vendor/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.wo
+ ff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+SHA256-Digest: /hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gBEzMhXaNLX691mjIy1KplugF/8=
+SHA256-Digest: NLvHEnLpTGIpIJeT70zIHoMr6cVRjdHGD2EZWGOrgUQ=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: PGjXGAAVlNCN21wGguZ/uX7YfBQ=
+SHA256-Digest: 9jRuVriMqdxnt6pDvintfP+R6UPUAEh/JMFUiM07ML8=
+
