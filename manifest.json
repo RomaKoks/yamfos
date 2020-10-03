@@ -1,0 +1,35 @@
+{
+    "manifest_version": 2,
+    "name": "Open Yandex Music Downloader",
+    "description": "Загружай музыку с Яндекс Музыки и Радио. Без слежки.",
+    "permissions": ["tabs", "downloads", "webRequest", "webRequestBlocking", "<all_urls>", "*://localhost/*"],
+    "background": {
+        "scripts": ["bundle/background.js"]
+    },
+    "content_scripts": [{
+        "js": ["bundle/content.js"],
+        "matches": ["https://music.yandex.ru/*", "https://music.yandex.ua/*", "https://music.yandex.kz/*", "https://music.yandex.by/*", "https://radio.yandex.ru/*", "https://radio.yandex.ua/*", "https://radio.yandex.kz/*", "https://radio.yandex.by/*"]
+    }],
+    "options_ui": {
+        "page": "options/options.html",
+        "open_in_tab": true,
+        "browser_style": true
+    },
+    "browser_action": {
+        "default_title": "Open Yandex Music Downloader",
+        "default_popup": "popup/popup.html",
+        "default_icon": "background/img/black.png"
+    },
+    "icons": {
+        "16": "background/img/icon-16x16.png",
+        "48": "background/img/icon-32x32.png",
+        "128": "background/img/icon.png"
+    },
+    "version": "2.9.7",
+    "applications": {
+        "gecko": {
+            "id": "yamfos@rumatoest.github.com",
+            "strict_min_version": "57.0"
+        }
+    }
+}
